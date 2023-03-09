@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Laban Ochwo
+- 👋 Hi, I’m **OCHWO LABAN**
 - 👀 I’m interested in **Data analysis, Data science and Machine Learning**
 - 🌱 I’m currently learning  machine learning
 - 💞️ I’m looking to collaborate on **Data Analysis and Data Science** projects
